@@ -1,0 +1,155 @@
+﻿estado;bairro;municipio;banco;ano
+Pará;Carapuru;Santa Izabel;Rio Carapuru;2014
+Pará;Paar;Ananindeua;Paar;2012
+Pará;Curralinho;Curralinho;Rio Canaticú;2016
+Pará;Muaná;Muaná;Pracaubense;2016
+Pará;Mosqueiro;Belém;Tupinambá;2009
+Pará;Outeiro;Belém;Caratateua;2013
+Pará;Belém;Belém;Cajueiro;2008
+Pará;Castanheira;Belém;Castanheira;2014
+Pará;Santo Antonio do Taua;Santo Antonio do Taua;Tauense;S.I
+Pará;Igarapé-Miri;Igarapé-Miri;Miri;2012
+Pará;Alto Paraíso;Jacundá;Paraíso;2011
+Pará;Marituba 1;Marituba;Mari;2013
+Pará;S.I;S.I;Aimorés;S.I
+Pará;Marambaia;Belém;Alachaster Bank;2019
+Pará;S.I;Gurupá;Aldeinha;2011
+Acre;Vitória;Rio Branco;Vitória;2011
+Acre;Triângulo Novo;Rio Branco;Triângulo;2013
+Amapá;Macapá;Macapá;Fazendinha;2012
+Amapá;Centro;Laranjal do Jari;Farol;2011
+Amapá;S.I;S.I;Forte;2012
+Rondônia;S.I;Porto Velho;Cultural Solidário de Rondônia;2012
+Roraima;Cerraria;Guajará-Miri;Pérola do Mamoré;2012
+Amazonas;Manaus;Manaus;Colonial;2012
+Amazonas;Barreirinha;Barreirinha;Ariramba;2016
+Amazonas;Boa Vista do Ramos;Boa Vista do Ramos;Boa Vista do Ramos;S.I
+Amazonas;Manaus;Manaus;Nova Aliança;2015
+Amazonas;Manaus;Manaus;Mauá;2015
+Amazonas;Manaus;Manaus;Poraque;S.I
+Amazonas;Colônia Terra Nova II;Manaus;Aruak;2012
+Amazonas;Morro da Liberdade;Manaus;Conquista;2011
+Amazonas;Colônia Antônio Aleixo;Manaus;Liberdade;2011
+Amazonas;São Benedito;Parintins;Parintins;2011
+Alagoas;Zona Rural;Limoeiro de Anadia;Limoeiro de Anadia;2019
+Alagoas;S.I;Igaci;Olhos D´água;2016
+Bahia;Saramandaia;Salvador;Guiné;2009
+Bahia;Feira de Santana (microrregião);Ouriçangas;Fonte de Águas Frescas;2012
+Bahia;Cachoeira;Cachoeira;Quilombola do Iguape;2013
+Bahia;Cairu;Cairu;Casa do Sol;2009
+Bahia;Canavieiras;Canavieiras;Bamex;2013
+Bahia;Simões Filho;Simões Filho;Ecoluzia;2007
+Bahia;São Francisco do Conde;São Francisco do Conde;Ouro Negro;2017
+Bahia;Vera Cruz;Vera Cruz;Ilhamar;2008
+Bahia;Camaçari;Camaçari;Abrantes;2014
+Bahia;Uruguai;Salvador;Santa Luzia;2009
+Bahia;S.I;Caetité;Dois de Julho;2017
+Bahia;S.I;Guanambi;Amigo do Sertão;2016
+Sergipe;Barra do Coqueiros;Barra do Coqueiros;Dunas;2012
+Paraíba;João Pessoa (São Rafael);João Pessoa;Jardim Botanico;2013
+Paraíba;João Pessoa;João Pessoa;Muçubank;2015
+Paraíba;Padre Cícero;Remígio;CEPAG Cinco Lagoas;2019
+Paraíba;Vida Nova;Pompal;Maringá;2016
+Paraíba;Centro;Lagoa de Dentro;Lagoa de Dentro;2016
+Rio Grande do Norte;Bebida Velha;Pureza;Pureza;2016
+Rio Grande do Norte;São Miguel do Gostoso;São Miguel do Gostoso;Banco Solidário do Gostoso;2012
+Piauí;São João do Arraial;São João do Arraial;Cocais;2007
+Piauí;S.I;Porto;Porto Marruais;2017
+Piauí;S.I;Esperantina;Retiro;2017
+Piauí;Pedro II;Pedro II;Rede Opala;2012
+Maranhão;Alcântara;Alcântara;Quilombola;2007
+Ceará;Acarape;Acarape;Vale Acarape;2011
+Ceará;Acarau;Acarau;Dunas;2011
+Ceará;Beberibe;Beberibe;Bandesb;2007
+Ceará;Campos Belos;Caridade;Pe Quiliano;2008
+Ceará;Cascavel;Cascavel;Bandesc;2011
+Ceará;Caucaia;Caucaia;Potira;2011
+Ceará;Choró;Choró;Sertanejo;2008
+Ceará;Chorozinho;Chorozinho;Rio Choro;2011
+Ceará;S.I;Fortaleza;São Cristóvão;2009
+Ceará;Pirambú;Fortaleza;Pirambu;2008
+Ceará;Granja Portugal;Fortaleza;Rio Sol;2008
+Ceará;Conj Palmeiras;Fortaleza;Palmas;1998
+Ceará;Sitio São João;Fortaleza;Sitio São João;2011
+Ceará;Edson Queiroz;Fortaleza;DendeSol;2010
+Ceará;Ibaretama;Ibaretama;Serra Azul;2008
+Ceará;Irauçuba;Irauçuba;Bancart;2006
+Ceará;Cruzeiro;Irauçuba;Amizade;2008
+Ceará;Juá;Irauçuba;Juazeiro;2008
+Ceará;Itaitinga;Itaitinga;Itasol;2011
+Ceará;Almofala;Itarema;Tremembé;2008
+Ceará;Timbaúbas;Juazeiro do Norte;Timbaubas;2011
+Ceará;Macaoca;Madalena;Bansol;2008
+Ceará;Maracanaú;Maracanaú;Paju;2006
+Ceará;Jereissati;Maracanaú;Jaçana;2008
+Ceará;Maranguape;Maranguape;Empreendedores;2006
+Ceará;Itapebussu;Maranguape;Itapebussu;2008
+Ceará;Mauriti;Mauriti;Buriti;2011
+Ceará;Monsenhor Tabosa;Monsenhor Tabosa;Serra das Matas;2008
+Ceará;Ocara;Ocara;Ocards;2008
+Ceará;Pacatuba;Pacatuba;Pacatubano;2011
+Ceará;Palhano;Palhano;Artpalha;2008
+Ceará;Palmácia;Palmácia;Serrano;2005
+Ceará;Paracuru;Paracuru;Par;2004
+Ceará;Paramoti;Paramoti;Frei Diogo;2007
+Ceará;Quixadá;Quixadá;Quixadá;2011
+Ceará;S.I;Santana do Acaraú;BASSA;2005
+Ceará;Tamboril;Tamboril;Feiticeiro;2008
+Ceará;Tauá;Tauá;Quinamuiu;2007
+Distrito Federal;S.I;Ceilândia;Ceilândia;2016
+Distrito Federal;Cidade Estrutural;Cidade Estrutural;Estrutural;2012
+Distrito Federal;Itapoã;Itapoã;Itapoã;2012
+Distrito Federal;Planaltina-DF;Planaltina (DF);Planaltina;sem dados
+Goias;Iporá;Iporá;Pequi;2012
+Mato Grosso do Sul;Ponta Porã;Ponta Porã;Ita;2012
+Mato Grosso do Sul;Dourados;Dourados;Pirê;2006
+Mato Grosso do Sul;Anastácio;Anastácio;Pantanal;2013
+Mato Grosso;Rondonópolis;Rondonópolis;Cerrado;2012
+Mato Grosso;Alta Floresta;Alta Floresta;Raiz;2013
+Mato Grosso;S.I;Cuiabá;Aroeira;2012
+Espírito Santo;Rubia;Nova Venécia;Kiri-Kere;2017
+Espírito Santo;Patrimônio da Penha;Divino de São Lourenço;Caparao;2017
+Espírito Santo;Planalto Serrano;Serra;ABraÇo;2011
+Espírito Santo;Central Carapina;Serra;Passarela;2013
+Espírito Santo;Vila Nova de Colares;Serra;Viver;2013
+Espírito Santo;Nova Palestina;São Pedro;Puã;2011
+Espírito Santo;Vista Dourada;Cariacica;Sol;2008
+Espírito Santo;S.I;Vitória;Bem de Perto Andorinhas;S.I
+Espírito Santo;S.I;Vitória;Bem de Perto;S.I
+Espírito Santo;São Benedito;Vitória;Bem;2006
+Espírito Santo;Cristal do Norte;Pedro Canário;União;2013
+Espírito Santo;Nova Rosa da Penha II;Cariacica;Esperança;2011
+Espírito Santo;Ataíde;Vila Velha;Verde Vida;2008
+Espírito Santo;Terra Vermelha;Vila Velha;Terra;2007
+Espírito Santo;Jacaraípe;Serra;Mar;2013
+São Paulo;Carapicuiba;Carapicuiba;Tonato;2011
+São Paulo;Inácio Monteiro;São Paulo;Paulo Freire;2009
+São Paulo;Jardim Apuanã;São Paulo;Apuanã;2009
+São Paulo;Santa Eudoxia;São Carlos;Santa Eudoxia;2012
+São Paulo;Jardim Gonzaga;São Carlos;Nascente;2011
+São Paulo;Jardim São Luís;São Paulo;Autogestão;2009
+São Paulo;Jardim Maria Sampaio;São Paulo;União Sampaio;2009
+São Paulo;Jardim Silvina;São Bernardo do Campo;Padre Leo Commissari;2011
+São Paulo;Fazendinha;Santana do Parnaíba;Ativa FZA;2019
+São Paulo;Vila Real;Várzea Paulista;Orquídea;2011
+Rio de Janeiro;Lapa;Rio de Janeiro;Cultura;2018
+Rio de Janeiro;Cidade de Deus;Rio de Janeiro;Cidade de Deus;2011
+Rio de Janeiro;Niteroi;Rio de Janeiro;Fundinho;2009
+Rio de Janeiro;Charitas;Niterói;Preventório;2011
+Rio de Janeiro;Silva Jardim;Silva Jardim;Capivari;2010
+Rio de Janeiro;Marica;Marica;Mumbuca;2013
+Rio de Janeiro;Niteroi;Niteroi;Arariboia;2021
+Minas Gerais;Chapada Gaúcha;Chapada Gaúcha;Chapadense;2009
+Minas Gerais;Esmeraldas;Esmeraldas;Esmeralda;2011
+Minas Gerais;Teófilo Rocha;Teófilo Otoni;Banclisa;2011
+Santa Catarina;Serrinha;Florianópolis;ICOM;2020
+Santa Catarina;Chico  Mendes;Florianópolis;ICOM;2020
+Santa Catarina;Nossa  Senhora da Glória;Florianópolis;ICOM;2020
+Santa Catarina;Novo  Horizonte;Florianópolis;ICOM;2020
+Santa Catarina;Monte Cristo;Florianópolis;ICOM;2020
+Santa Catarina;Morro do Mocotó;Florianópolis;ICOM;2020
+Santa Catarina;Comunidade da Praia;Florianópolis;ICOM;2020
+Santa Catarina;Campeche;Florianópolis;Costeira;2020
+Rio Grande do Sul;Sarandi;Porto Alegre;Banco  Justa Troca;2016
+Rio Grande do Sul;Vila  1o. De Maio;Porto Alegre;Banco Cascata;2016
+Rio Grande do Sul;S.I;S.I;Banco Grão;2017
