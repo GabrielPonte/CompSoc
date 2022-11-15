@@ -50,24 +50,24 @@ latitude,longitude,estado,bairro,municipio,banco,bool_bairro,bool_municipio
 -7.1215981,-34.882028,Paraíba,João Pessoa,João Pessoa,Muçubank,1,0
 -7.162972,-39.298773,Paraíba,Padre Cícero,Remígio,CEPAG Cinco Lagoas,1,0
 -18.9277328,-48.2151061,Paraíba,Vida Nova,Pompal,Maringá,1,0
--6.672424406883955, -35.376488380901996,Paraíba,Centro,Lagoa de Dentro,Lagoa de Dentro,1,0
+-6.672424406883955, -35.376488380901996,Paraíba,Centro,Lagoa de Dentro,Lagoa de Dentro,1,1
 -5.3456592,-35.5349352,Rio Grande do Norte,Bebida Velha,Pureza,Pureza,1,0
 -5.1230207,-35.6353882,Rio Grande do Norte,São Miguel do Gostoso,São Miguel do Gostoso,Banco Solidário do Gostoso,1,0
 -3.8126524,-42.4508146,Piauí,São João do Arraial,São João do Arraial,Cocais,1,0
--3.8940435333812147, -42.71743575569055,Piauí,S.I,Porto,Porto Marruais,0,1
--3.8848439169957225, -42.23466365518113,Piauí,S.I,Esperantina,Retiro,0,1
+-3.8940435333812147, -42.71743575569055,Piauí,S.I,Porto,Porto Marruais,1,1
+-3.8848439169957225, -42.23466365518113,Piauí,S.I,Esperantina,Retiro,1,1
 -4.4252673,-41.458407,Piauí,Pedro II,Pedro II,Rede Opala,1,0
 -2.4084996,-44.4174143,Maranhão,Alcântara,Alcântara,Quilombola,1,0
 -4.2237866,-38.7071663,Ceará,Acarape,Acarape,Vale Acarape,1,0
 -2.8869514,-40.1194713,Ceará,Acarau,Acarau,Dunas,1,0
 -4.1810469,-38.1298101,Ceará,Beberibe,Beberibe,Bandesb,1,0
--4.22545043977517, -38.91974206148232,Ceará,Campos Belos,Caridade,Pe Quiliano,1,0
--4.13377986741926, -38.23753502756004,Ceará,Cascavel,Cascavel,Bandesc,1,0
+-4.22545043977517, -38.91974206148232,Ceará,Campos Belos,Caridade,Pe Quiliano,1,1
+-4.13377986741926, -38.23753502756004,Ceará,Cascavel,Cascavel,Bandesc,1,1
 -3.7300563,-38.6593082,Ceará,Caucaia,Caucaia,Potira,1,0
 -4.8435726,-39.1393071,Ceará,Choró,Choró,Sertanejo,1,0
 -4.3010895,-38.4976923,Ceará,Chorozinho,Chorozinho,Rio Choro,1,0
 -3.7304512,-38.5217989,Ceará,S.I,Fortaleza,São Cristóvão,0,1
--3.7105135934450963, -38.56256640544217,Ceará,Pirambú,Fortaleza,Pirambu,1,0
+-3.7105135934450963, -38.56256640544217,Ceará,Pirambú,Fortaleza,Pirambu,1,1
 -3.7822084,-38.5997833,Ceará,Granja Portugal,Fortaleza,Rio Sol,1,0
 -3.84343609465439, -38.52547505733316,Ceará,Conj Palmeiras,Fortaleza,Palmas,1,1
 -3.8556484245948335, -38.51390424303372,Ceará,Sitio São João,Fortaleza,Sitio São João,1,1
@@ -78,7 +78,7 @@ latitude,longitude,estado,bairro,municipio,banco,bool_bairro,bool_municipio
 -3.745846686764, -39.778545299366236,Ceará,Juá,Irauçuba,Juazeiro,1,1
 -3.965768,-38.529763,Ceará,Itaitinga,Itaitinga,Itasol,1,0
 -2.9393495,-39.8289012,Ceará,Almofala,Itarema,Tremembé,1,0
--7.215468750556812, -39.30293659362764,Ceará,Timbaúbas,Juazeiro do Norte,Timbaubas,1,0
+-7.215468750556812, -39.30293659362764,Ceará,Timbaúbas,Juazeiro do Norte,Timbaubas,1,1
 -4.760803,-39.4834734,Ceará,Macaoca,Madalena,Bansol,1,0
 -3.8779438,-38.6247697,Ceará,Maracanaú,Maracanaú,Paju,1,0
 -3.8800328,-38.61071685919009,Ceará,Jereissati,Maracanaú,Jaçana,1,0
