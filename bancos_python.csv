@@ -116,11 +116,11 @@ latitude,longitude,estado,bairro,municipio,banco,bool_bairro,bool_municipio
 -20.3333586,-40.4295698,Espírito Santo,Vista Dourada,Cariacica,Sol,1,0
 -20.3200917,-40.3376682,Espírito Santo,S.I,Vitória,Bem de Perto Andorinhas,0,1
 -20.3200917,-40.3376682,Espírito Santo,S.I,Vitória,Bem de Perto,0,1
--4.0479952,-40.8643488,Espírito Santo,São Benedito,Vitória,Bem,1,0
+-18.7381714,-39.8612654,Espírito Santo,São Benedito,Vitória,Bem,1,0
 -18.0828478,-40.09614486183402,Espírito Santo,Cristal do Norte,Pedro Canário,União,1,0
 -20.263202,-40.416549,Espírito Santo,Nova Rosa da Penha II,Cariacica,Esperança,0,1
 -20.3436454,-40.3238591,Espírito Santo,Ataíde,Vila Velha,Verde Vida,1,0
--19.3106312,-43.757936,Espírito Santo,Terra Vermelha,Vila Velha,Terra,1,0
+-20.4434487,-40.3514806,Espírito Santo,Terra Vermelha,Vila Velha,Terra,1,0
 -20.15935905,-40.1853349102815,Espírito Santo,Jacaraípe,Serra,Mar,1,0
 -23.5234673,-46.8406808,São Paulo,Carapicuiba,Carapicuiba,Tonato,1,0
 -23.5716262,-46.399928,São Paulo,Inácio Monteiro,São Paulo,Paulo Freire,1,0
@@ -130,9 +130,9 @@ latitude,longitude,estado,bairro,municipio,banco,bool_bairro,bool_municipio
 -23.6739274,-46.7407377,São Paulo,Jardim São Luís,São Paulo,Autogestão,1,0
 -23.644507150000003,-46.78521514207762,São Paulo,Jardim Maria Sampaio,São Paulo,União Sampaio,1,0
 -23.7374247,-46.5350171,São Paulo,Jardim Silvina,São Bernardo do Campo,Padre Leo Commissari,1,0
--21.085008,-42.9698382,São Paulo,Fazendinha,Santana do Parnaíba,Ativa FZA,1,0
--19.8063428,-48.0189621,São Paulo,Vila Real,Várzea Paulista,Orquídea,1,0
--13.250571,-43.410754,Rio de Janeiro,Lapa,Rio de Janeiro,Cultura,1,0
+-23.48206,-48.1359704,São Paulo,Fazendinha,Santana do Parnaíba,Ativa FZA,1,0
+-22.2475128,-49.9425321,São Paulo,Vila Real,Várzea Paulista,Orquídea,1,0
+-22.9130257,-43.1822358,Rio de Janeiro,Lapa,Rio de Janeiro,Cultura,1,0
 -22.94803,-43.362903,Rio de Janeiro,Cidade de Deus,Rio de Janeiro,Cidade de Deus,1,0
 -22.8884,-43.1147,Rio de Janeiro,Niteroi,Rio de Janeiro,Fundinho,1,0
 -22.9292,-43.0967,Rio de Janeiro,Charitas,Niterói,Preventório,1,0
@@ -142,13 +142,13 @@ latitude,longitude,estado,bairro,municipio,banco,bool_bairro,bool_municipio
 -15.2946253,-45.6284904,Minas Gerais,Chapada Gaúcha,Chapada Gaúcha,Chapadense,1,0
 -19.7613111,-44.3145945,Minas Gerais,Esmeraldas,Esmeraldas,Esmeralda,1,0
 -17.8756111,-41.5046009,Minas Gerais,Teófilo Rocha,Teófilo Otoni,Banclisa,1,0
--11.66199,-39.0034021,Santa Catarina,Serrinha,Florianópolis,ICOM,1,0
--9.9381338,-67.8013831,Santa Catarina,Chico  Mendes,Florianópolis,ICOM,1,0
--10.2188811,-37.4199759,Santa Catarina,Nossa  Senhora da Glória,Florianópolis,ICOM,1,0
--21.4674564,-49.2235377,Santa Catarina,Novo  Horizonte,Florianópolis,ICOM,1,0
-2.9479888,-60.7453031,Santa Catarina,Monte Cristo,Florianópolis,ICOM,1,0
+-27.5967024,-48.5270263,Santa Catarina,Serrinha,Florianópolis,ICOM,1,0
+-26.3637077,-48.8294686,Santa Catarina,Chico  Mendes,Florianópolis,ICOM,1,0
+-26.713218849999997,-49.48483718133059,Santa Catarina,Nossa  Senhora da Glória,Florianópolis,ICOM,1,0
+-26.4465656,-52.8319931,Santa Catarina,Novo  Horizonte,Florianópolis,ICOM,1,0
+-27.5906209,-48.6013611,Santa Catarina,Monte Cristo,Florianópolis,ICOM,1,0
 -27.606979449999997,-48.54452672744959,Santa Catarina,Morro do Mocotó,Florianópolis,ICOM,1,0
--8.186821,-34.953771200000006,Santa Catarina,Comunidade da Praia,Florianópolis,ICOM,1,0
+-27.5973002,-48.5496098,Santa Catarina,Comunidade da Praia,Florianópolis,ICOM,0,1
 -27.6824506,-48.4905604,Santa Catarina,Campeche,Florianópolis,Costeira,1,0
 -27.942,-52.923085,Rio Grande do Sul,Sarandi,Porto Alegre,Banco  Justa Troca,1,0
 -30.09015315,-51.18088778172944,Rio Grande do Sul,Vila  1o. De Maio,Porto Alegre,Banco Cascata,1,0
