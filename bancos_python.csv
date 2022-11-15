@@ -1,55 +1,55 @@
 latitude,longitude,estado,bairro,municipio,banco,bool_bairro,bool_municipio
--4.032898,-47.1946284,Pará,Carapuru,Santa Izabel,Rio Carapuru,0,1
+-1.3709304167434406, -48.15366066889549,Pará,Carapuru,Santa Izabel,Rio Carapuru,1,1
 -1.338802,-48.386436,Pará,Paar,Ananindeua,Paar,1,0
 -1.8137876,-49.7980165,Pará,Curralinho,Curralinho,Rio Canaticú,1,0
 -1.5317443,-49.2223565,Pará,Muaná,Muaná,Pracaubense,1,0
 -1.1343353,-48.433947382470734,Pará,Mosqueiro,Belém,Tupinambá,1,0
--1.34345975,-48.5146264147954,Pará,Outeiro,Belém,Caratateua,1,0
+-1.2524566890271502, -48.453800255667694,Pará,Outeiro,Belém,Caratateua,1,1
 -1.45056,-48.4682453,Pará,Belém,Belém,Cajueiro,1,0
--11.1391946,-58.6088547,Pará,Castanheira,Belém,Castanheira,1,0
+-1.4079224489622042, -48.43140865342144,Pará,Castanheira,Belém,Castanheira,1,1
 -1.1522,-48.131446,Pará,Santo Antonio do Taua,Santo Antonio do Taua,Tauense,1,0
 -1.9785213,-48.9634826,Pará,Igarapé-Miri,Igarapé-Miri,Miri,1,0
--23.508137,-53.728537,Pará,Alto Paraíso,Jacundá,Paraíso,1,0
+-4.446157063881617, -49.11715051054972,Pará,Alto Paraíso,Jacundá,Paraíso,1,1
 -1.3595306,-48.3361504,Pará,Marituba 1,Marituba,Mari,0,1
--22.858357645798264,-43.230711244463144,Pará,S.I,S.I,Aimorés,0,0
--4.1012778,-45.3547961,Pará,Marambaia,Belém,Alachaster Bank,1,0
+-2.9944165398911404, -47.355239357313124,Pará,S.I,S.I,Aimorés,1,1
+-1.3993691081791892, -48.45499367120724,Pará,Marambaia,Belém,Alachaster Bank,1,1
 -1.406325,-51.6427456,Pará,S.I,Gurupá,Aldeinha,0,1
--20.3200917,-40.3376682,Acre,Vitória,Rio Branco,Vitória,1,0
--23.43791865,-53.93679874161383,Acre,Triângulo Novo,Rio Branco,Triângulo,1,0
+-9.94655074997463, -67.8018086991599,Acre,Vitória,Rio Branco,Vitória,1,1
+-9.99011745744784, -67.8105911212349,Acre,Triângulo Novo,Rio Branco,Triângulo,1,1
 0.0401529,-51.0569588,Amapá,Macapá,Macapá,Fazendinha,1,0
--7.017749,-37.945295,Amapá,Centro,Laranjal do Jari,Farol,1,0
--22.858357645798264,-43.230711244463144,Amapá,S.I,S.I,Forte,0,0
+-0.8400696382498636, -52.51897094466098,Amapá,Centro,Laranjal do Jari,Farol,1,1
+2.04696108726332, -50.79229217641323,Amapá,S.I,S.I,Forte,1,1
 -8.7494525,-63.8735438,Rondônia,S.I,Porto Velho,Cultural Solidário de Rondônia,0,1
--6.0220383,-49.1990817,Roraima,Cerraria,Guajará-Miri,Pérola do Mamoré,1,0
+-10.786579521134993, -65.34064497446948,Rondônia,Cerraria,Guajará-Mirim,Pérola do Mamoré,1,1
 -3.1316333,-59.9825041,Amazonas,Manaus,Manaus,Colonial,1,0
 -2.798863,-57.067897,Amazonas,Barreirinha,Barreirinha,Ariramba,1,0
 -2.9716927,-57.5869819,Amazonas,Boa Vista do Ramos,Boa Vista do Ramos,Boa Vista do Ramos,1,0
--3.1316333,-59.9825041,Amazonas,Manaus,Manaus,Nova Aliança,1,0
--3.1316333,-59.9825041,Amazonas,Manaus,Manaus,Mauá,1,0
--3.1316333,-59.9825041,Amazonas,Manaus,Manaus,Poraque,1,0
+-3.1285356286965467, -60.02319855477101,Amazonas,Manaus,Manaus,Nova Aliança,1,1
+-3.127541924420845, -60.014420494793605,Amazonas,Manaus,Manaus,Mauá,1,1
+-3.1332748207789822, -60.0145225652343,Amazonas,Manaus,Manaus,Poraque,1,1
 -2.9978673,-60.014116,Amazonas,Colônia Terra Nova II,Manaus,Aruak,1,0
 -3.1380304,-60.0003528,Amazonas,Morro da Liberdade,Manaus,Conquista,1,0
 -3.1055488,-59.9051666,Amazonas,Colônia Antônio Aleixo,Manaus,Liberdade,1,0
--4.0479952,-40.8643488,Amazonas,São Benedito,Parintins,Parintins,1,0
--3.2632778,-60.6241398,Alagoas,Zona Rural,Limoeiro de Anadia,Limoeiro de Anadia,1,0
+-2.629476251134197, -56.74262999346342,Amazonas,São Benedito,Parintins,Parintins,1,1
+-9.73759013019414, -36.50234334438009,Alagoas,Zona Rural,Limoeiro de Anadia,Limoeiro de Anadia,1,1
 -9.537678,-36.637191,Alagoas,S.I,Igaci,Olhos D´água,0,1
--5.5679425,-46.9620773,Bahia,Saramandaia,Salvador,Guiné,1,0
+-12.97424244705775, -38.468271816720886,Bahia,Saramandaia,Salvador,Guiné,1,1
 -12.0105291,-38.6259109,Bahia,Feira de Santana (microrregião),Ouriçangas,Fonte de Águas Frescas,0,1
--30.0482234,-52.8901686,Bahia,Cachoeira,Cachoeira,Quilombola do Iguape,1,0
+-12.602102540044047, -38.96431570206428,Bahia,Cachoeira,Cachoeira,Quilombola do Iguape,1,1
 -13.4860505,-39.0455744,Bahia,Cairu,Cairu,Casa do Sol,1,0
 -15.6790128,-38.9449622,Bahia,Canavieiras,Canavieiras,Bamex,1,0
 -12.7867839,-38.4030365,Bahia,Simões Filho,Simões Filho,Ecoluzia,1,0
 -12.628108,-38.6811326,Bahia,São Francisco do Conde,São Francisco do Conde,Ouro Negro,1,0
--22.2212638,-49.8243021,Bahia,Vera Cruz,Vera Cruz,Ilhamar,1,0
+-12.960007154385533, -38.612756340044584,Bahia,Vera Cruz,Vera Cruz,Ilhamar,1,1
 -12.6998188,-38.3260762,Bahia,Camaçari,Camaçari,Abrantes,0,1
 -12.9345334,-38.4950228,Bahia,Uruguai,Salvador,Santa Luzia,1,0
 -14.0691776,-42.4852428,Bahia,S.I,Caetité,Dois de Julho,0,1
 -14.223066,-42.779943,Bahia,S.I,Guanambi,Amigo do Sertão,0,1
--21.2678199,-47.0455787,Sergipe,Barra do Coqueiros,Barra do Coqueiros,Dunas,1,0
--23.221266,-47.5246528,Paraíba,João Pessoa (São Rafael),João Pessoa,Jardim Botanico,1,0
+-10.907411635454496, -37.026664936709594,Sergipe,Barra do Coqueiros,Barra do Coqueiros,Dunas,1,1
+-7.129065281926511, -34.843156547900726,Paraíba,João Pessoa (São Rafael),João Pessoa,Jardim Botanico,1,1
 -7.1215981,-34.882028,Paraíba,João Pessoa,João Pessoa,Muçubank,1,0
--7.162972,-39.298773,Paraíba,Padre Cícero,Remígio,CEPAG Cinco Lagoas,1,0
--18.9277328,-48.2151061,Paraíba,Vida Nova,Pompal,Maringá,1,0
+-6.971736501860899, -35.80541606098268,Paraíba,Padre Cícero,Remígio,CEPAG Cinco Lagoas,1,1
+-6.775958742063362, -37.79564994940786,Paraíba,Vida Nova,Pompal,Maringá,1,1
 -6.672424406883955, -35.376488380901996,Paraíba,Centro,Lagoa de Dentro,Lagoa de Dentro,1,1
 -5.3456592,-35.5349352,Rio Grande do Norte,Bebida Velha,Pureza,Pureza,1,0
 -5.1230207,-35.6353882,Rio Grande do Norte,São Miguel do Gostoso,São Miguel do Gostoso,Banco Solidário do Gostoso,1,0
