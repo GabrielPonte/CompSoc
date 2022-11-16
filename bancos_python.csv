@@ -131,24 +131,24 @@ latitude,longitude,estado,bairro,municipio,banco,bool_bairro,bool_municipio
 -23.644507150000003,-46.78521514207762,São Paulo,Jardim Maria Sampaio,São Paulo,União Sampaio,1,0
 -23.7374247,-46.5350171,São Paulo,Jardim Silvina,São Bernardo do Campo,Padre Leo Commissari,1,0
 -23.4425642980292, -46.915551531783265,São Paulo,Fazendinha,Santana do Parnaíba,Ativa FZA,1,1
--22.2475128,-49.9425321,São Paulo,Vila Real,Várzea Paulista,Orquídea,1,0
+-23.193700008090524, -46.81439370867983,São Paulo,Vila Real,Várzea Paulista,Orquídea,1,1
 -22.9130257,-43.1822358,Rio de Janeiro,Lapa,Rio de Janeiro,Cultura,1,0
 -22.94803,-43.362903,Rio de Janeiro,Cidade de Deus,Rio de Janeiro,Cidade de Deus,1,0
 -22.8884,-43.1147,Rio de Janeiro,Niteroi,Rio de Janeiro,Fundinho,1,0
--22.9292,-43.0967,Rio de Janeiro,Charitas,Niterói,Preventório,1,0
+-22.93442186204764, -43.10042288972289,Rio de Janeiro,Charitas,Niterói,Preventório,1,1
 -22.6509706,-42.3947353,Rio de Janeiro,Silva Jardim,Silva Jardim,Capivari,1,0
--22.9059188,-42.7926326,Rio de Janeiro,Marica,Marica,Mumbuca,1,0
--22.8884,-43.1147,Rio de Janeiro,Niteroi,Niteroi,Arariboia,1,0
+-22.916749209224804,-42.95903350791264,Rio de Janeiro,Marica,Marica,Mumbuca,1,1
+-22.877706627188044, -43.09194296287378,Rio de Janeiro,Niteroi,Niteroi,Arariboia,1,1
 -15.2946253,-45.6284904,Minas Gerais,Chapada Gaúcha,Chapada Gaúcha,Chapadense,1,0
 -19.7613111,-44.3145945,Minas Gerais,Esmeraldas,Esmeraldas,Esmeralda,1,0
 -17.8756111,-41.5046009,Minas Gerais,Teófilo Rocha,Teófilo Otoni,Banclisa,1,0
 -27.5967024,-48.5270263,Santa Catarina,Serrinha,Florianópolis,ICOM,1,0
--26.3637077,-48.8294686,Santa Catarina,Chico  Mendes,Florianópolis,ICOM,1,0
--26.713218849999997,-49.48483718133059,Santa Catarina,Nossa  Senhora da Glória,Florianópolis,ICOM,1,0
+-27.589837192825215, -48.54444334545133,Santa Catarina,Chico  Mendes,Florianópolis,ICOM,1,1
+-27.695971631037956, -48.5379670100998,Santa Catarina,Nossa  Senhora da Glória,Florianópolis,ICOM,1,1
 -26.4465656,-52.8319931,Santa Catarina,Novo  Horizonte,Florianópolis,ICOM,1,0
 -27.5906209,-48.6013611,Santa Catarina,Monte Cristo,Florianópolis,ICOM,1,0
 -27.606979449999997,-48.54452672744959,Santa Catarina,Morro do Mocotó,Florianópolis,ICOM,1,0
--27.5973002,-48.5496098,Santa Catarina,Comunidade da Praia,Florianópolis,ICOM,0,1
+-27.663477740134585, -48.49075678063909,Santa Catarina,Comunidade da Praia,Florianópolis,ICOM,1,1
 -27.6824506,-48.4905604,Santa Catarina,Campeche,Florianópolis,Costeira,1,0
 -27.942,-52.923085,Rio Grande do Sul,Sarandi,Porto Alegre,Banco  Justa Troca,1,0
 -30.09015315,-51.18088778172944,Rio Grande do Sul,Vila  1o. De Maio,Porto Alegre,Banco Cascata,1,0
