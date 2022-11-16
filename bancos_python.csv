@@ -130,7 +130,7 @@ latitude,longitude,estado,bairro,municipio,banco,bool_bairro,bool_municipio
 -23.6739274,-46.7407377,São Paulo,Jardim São Luís,São Paulo,Autogestão,1,0
 -23.644507150000003,-46.78521514207762,São Paulo,Jardim Maria Sampaio,São Paulo,União Sampaio,1,0
 -23.7374247,-46.5350171,São Paulo,Jardim Silvina,São Bernardo do Campo,Padre Leo Commissari,1,0
--23.48206,-48.1359704,São Paulo,Fazendinha,Santana do Parnaíba,Ativa FZA,1,0
+-23.4425642980292, -46.915551531783265,São Paulo,Fazendinha,Santana do Parnaíba,Ativa FZA,1,1
 -22.2475128,-49.9425321,São Paulo,Vila Real,Várzea Paulista,Orquídea,1,0
 -22.9130257,-43.1822358,Rio de Janeiro,Lapa,Rio de Janeiro,Cultura,1,0
 -22.94803,-43.362903,Rio de Janeiro,Cidade de Deus,Rio de Janeiro,Cidade de Deus,1,0
