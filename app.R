@@ -1,6 +1,6 @@
 library(shiny)
 library(leaflet)
-library(fontawesome)
+library(shinydashboard)
 r_colors <- rgb(t(col2rgb(colors()) / 255))
 names(r_colors) <- colors()
 
@@ -13,14 +13,18 @@ greenLeafIcon <- makeIcon(
   shadowWidth = 0.5, shadowHeight = -17,
   shadowAnchorX = 20.5, shadowAnchorY = 20.5
 )
-ui <- fluidPage(
-  leafletOutput("mymap"),
-  p()
+ui <- dashboardPage(
+  dashboardHeader(),
+  dashboardSidebar(),
+  dashboardBody(
+    tags$style(type = "text/css", "#map {height: calc(100vh - 80px) !important;}"),
+    leafletOutput("map")
+  )
 )
 server <- function(input, output, session) {
   my_table <- read.csv("https://raw.githubusercontent.com/GabrielPonte/CompSoc/main/bancos_python.csv")
   points <- cbind(my_table$longitude,my_table$latitude)
-  output$mymap <- renderLeaflet({
+  output$map <- renderLeaflet({
     leaflet() %>%
       addProviderTiles(providers$Stamen.TonerLite,
                        options = providerTileOptions(noWrap = TRUE)
@@ -28,6 +32,7 @@ server <- function(input, output, session) {
       addMarkers(data = points,popup = my_table$banco,icon=greenLeafIcon)
       #addMarkers(data = points,popup = my_table$banco)
       #addCircleMarkers(data=points,popup = my_table$banco,fillOpacity = 1,fillColor = "goldenrod",stroke = F,radius = 2)
+      #setView(42, 16, 4)
   })
 }
 shinyApp(ui, server)
