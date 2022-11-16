@@ -115,7 +115,7 @@ latitude,longitude,estado,bairro,municipio,banco,bool_bairro,bool_municipio
 -20.2721397,-40.3268749,Espírito Santo,Nova Palestina,São Pedro,Puã,1,0
 -20.3333586,-40.4295698,Espírito Santo,Vista Dourada,Cariacica,Sol,1,0
 -20.3200917,-40.3376682,Espírito Santo,S.I,Vitória,Bem de Perto Andorinhas,0,1
--20.3200917,-40.3376682,Espírito Santo,S.I,Vitória,Bem de Perto,0,1
+-20.315438464762355, -40.341178222483755,Espírito Santo,S.I,Vitória,Bem de Perto,1,1
 -18.7381714,-39.8612654,Espírito Santo,São Benedito,Vitória,Bem,1,0
 -18.0828478,-40.09614486183402,Espírito Santo,Cristal do Norte,Pedro Canário,União,1,0
 -20.263202,-40.416549,Espírito Santo,Nova Rosa da Penha II,Cariacica,Esperança,0,1
