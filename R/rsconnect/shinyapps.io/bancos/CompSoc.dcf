@@ -4,10 +4,10 @@ username:
 account: bancos
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
-appId: 7608037
-bundleId: 6519964
+appId: 7668668
+bundleId: 6528497
 url: https://bancos.shinyapps.io/CompSoc/
-when: 1668591039.9261
-lastSyncTime: 1668591039.92611
+when: 1668763426.17741
+lastSyncTime: 1668763426.17741
 asMultiple: FALSE
 asStatic: FALSE
