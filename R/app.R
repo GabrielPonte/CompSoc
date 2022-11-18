@@ -137,9 +137,15 @@ server <- function(input, output, session) {
     })
     
     datatable(my_table[x,], 
+              extensions = 'Buttons',
               options = list(
-                scrollX = TRUE
-                             )) %>% 
+                scrollX = TRUE,
+                dom = 'Bfrtip',
+                buttons = c('copy', 'excel', 'pdf'),
+                pageLength=tot_rows, 
+                lengthMenu=c(3,5,10)
+                )
+              ) %>% 
     formatRound(c(2,3),3) # casas decimais pra lat/long
   })
 }
