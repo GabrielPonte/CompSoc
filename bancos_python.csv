@@ -1,155 +1,155 @@
-latitude,longitude,estado,bairro,municipio,banco,bool_bairro,bool_municipio
--1.3709304167434406, -48.15366066889549,Pará,Carapuru,Santa Izabel,Rio Carapuru,1,1
--1.338802,-48.386436,Pará,Paar,Ananindeua,Paar,1,0
--1.8137876,-49.7980165,Pará,Curralinho,Curralinho,Rio Canaticú,1,0
--1.5317443,-49.2223565,Pará,Muaná,Muaná,Pracaubense,1,0
--1.1343353,-48.433947382470734,Pará,Mosqueiro,Belém,Tupinambá,1,0
--1.2524566890271502, -48.453800255667694,Pará,Outeiro,Belém,Caratateua,1,1
--1.45056,-48.4682453,Pará,Belém,Belém,Cajueiro,1,0
--1.4079224489622042, -48.43140865342144,Pará,Castanheira,Belém,Castanheira,1,1
--1.1522,-48.131446,Pará,Santo Antonio do Taua,Santo Antonio do Taua,Tauense,1,0
--1.9785213,-48.9634826,Pará,Igarapé-Miri,Igarapé-Miri,Miri,1,0
--4.446157063881617, -49.11715051054972,Pará,Alto Paraíso,Jacundá,Paraíso,1,1
--1.3595306,-48.3361504,Pará,Marituba 1,Marituba,Mari,0,1
--2.9944165398911404, -47.355239357313124,Pará,S.I,S.I,Aimorés,1,1
--1.3993691081791892, -48.45499367120724,Pará,Marambaia,Belém,Alachaster Bank,1,1
--1.406325,-51.6427456,Pará,S.I,Gurupá,Aldeinha,0,1
--9.94655074997463, -67.8018086991599,Acre,Vitória,Rio Branco,Vitória,1,1
--9.99011745744784, -67.8105911212349,Acre,Triângulo Novo,Rio Branco,Triângulo,1,1
-0.0401529,-51.0569588,Amapá,Macapá,Macapá,Fazendinha,1,0
--0.8400696382498636, -52.51897094466098,Amapá,Centro,Laranjal do Jari,Farol,1,1
-2.04696108726332, -50.79229217641323,Amapá,S.I,S.I,Forte,1,1
--8.7494525,-63.8735438,Rondônia,S.I,Porto Velho,Cultural Solidário de Rondônia,0,1
--10.786579521134993, -65.34064497446948,Rondônia,Cerraria,Guajará-Mirim,Pérola do Mamoré,1,1
--3.1316333,-59.9825041,Amazonas,Manaus,Manaus,Colonial,1,0
--2.798863,-57.067897,Amazonas,Barreirinha,Barreirinha,Ariramba,1,0
--2.9716927,-57.5869819,Amazonas,Boa Vista do Ramos,Boa Vista do Ramos,Boa Vista do Ramos,1,0
--3.1285356286965467, -60.02319855477101,Amazonas,Manaus,Manaus,Nova Aliança,1,1
--3.127541924420845, -60.014420494793605,Amazonas,Manaus,Manaus,Mauá,1,1
--3.1332748207789822, -60.0145225652343,Amazonas,Manaus,Manaus,Poraque,1,1
--2.9978673,-60.014116,Amazonas,Colônia Terra Nova II,Manaus,Aruak,1,0
--3.1380304,-60.0003528,Amazonas,Morro da Liberdade,Manaus,Conquista,1,0
--3.1055488,-59.9051666,Amazonas,Colônia Antônio Aleixo,Manaus,Liberdade,1,0
--2.629476251134197, -56.74262999346342,Amazonas,São Benedito,Parintins,Parintins,1,1
--9.73759013019414, -36.50234334438009,Alagoas,Zona Rural,Limoeiro de Anadia,Limoeiro de Anadia,1,1
--9.537678,-36.637191,Alagoas,S.I,Igaci,Olhos D´água,0,1
--12.97424244705775, -38.468271816720886,Bahia,Saramandaia,Salvador,Guiné,1,1
--12.0105291,-38.6259109,Bahia,Feira de Santana (microrregião),Ouriçangas,Fonte de Águas Frescas,0,1
--12.602102540044047, -38.96431570206428,Bahia,Cachoeira,Cachoeira,Quilombola do Iguape,1,1
--13.4860505,-39.0455744,Bahia,Cairu,Cairu,Casa do Sol,1,0
--15.6790128,-38.9449622,Bahia,Canavieiras,Canavieiras,Bamex,1,0
--12.7867839,-38.4030365,Bahia,Simões Filho,Simões Filho,Ecoluzia,1,0
--12.628108,-38.6811326,Bahia,São Francisco do Conde,São Francisco do Conde,Ouro Negro,1,0
--12.960007154385533, -38.612756340044584,Bahia,Vera Cruz,Vera Cruz,Ilhamar,1,1
--12.6998188,-38.3260762,Bahia,Camaçari,Camaçari,Abrantes,0,1
--12.9345334,-38.4950228,Bahia,Uruguai,Salvador,Santa Luzia,1,0
--14.0691776,-42.4852428,Bahia,S.I,Caetité,Dois de Julho,0,1
--14.223066,-42.779943,Bahia,S.I,Guanambi,Amigo do Sertão,0,1
--10.907411635454496, -37.026664936709594,Sergipe,Barra do Coqueiros,Barra do Coqueiros,Dunas,1,1
--7.129065281926511, -34.843156547900726,Paraíba,João Pessoa (São Rafael),João Pessoa,Jardim Botanico,1,1
--7.1215981,-34.882028,Paraíba,João Pessoa,João Pessoa,Muçubank,1,0
--6.971736501860899, -35.80541606098268,Paraíba,Padre Cícero,Remígio,CEPAG Cinco Lagoas,1,1
--6.775958742063362, -37.79564994940786,Paraíba,Vida Nova,Pompal,Maringá,1,1
--6.672424406883955, -35.376488380901996,Paraíba,Centro,Lagoa de Dentro,Lagoa de Dentro,1,1
--5.3456592,-35.5349352,Rio Grande do Norte,Bebida Velha,Pureza,Pureza,1,0
--5.1230207,-35.6353882,Rio Grande do Norte,São Miguel do Gostoso,São Miguel do Gostoso,Banco Solidário do Gostoso,1,0
--3.8126524,-42.4508146,Piauí,São João do Arraial,São João do Arraial,Cocais,1,0
--3.8940435333812147, -42.71743575569055,Piauí,S.I,Porto,Porto Marruais,1,1
--3.8848439169957225, -42.23466365518113,Piauí,S.I,Esperantina,Retiro,1,1
--4.4252673,-41.458407,Piauí,Pedro II,Pedro II,Rede Opala,1,0
--2.4084996,-44.4174143,Maranhão,Alcântara,Alcântara,Quilombola,1,0
--4.2237866,-38.7071663,Ceará,Acarape,Acarape,Vale Acarape,1,0
--2.8869514,-40.1194713,Ceará,Acarau,Acarau,Dunas,1,0
--4.1810469,-38.1298101,Ceará,Beberibe,Beberibe,Bandesb,1,0
--4.22545043977517, -38.91974206148232,Ceará,Campos Belos,Caridade,Pe Quiliano,1,1
--4.13377986741926, -38.23753502756004,Ceará,Cascavel,Cascavel,Bandesc,1,1
--3.7300563,-38.6593082,Ceará,Caucaia,Caucaia,Potira,1,0
--4.8435726,-39.1393071,Ceará,Choró,Choró,Sertanejo,1,0
--4.3010895,-38.4976923,Ceará,Chorozinho,Chorozinho,Rio Choro,1,0
--3.7304512,-38.5217989,Ceará,S.I,Fortaleza,São Cristóvão,0,1
--3.7105135934450963, -38.56256640544217,Ceará,Pirambú,Fortaleza,Pirambu,1,1
--3.7822084,-38.5997833,Ceará,Granja Portugal,Fortaleza,Rio Sol,1,0
--3.84343609465439, -38.52547505733316,Ceará,Conj Palmeiras,Fortaleza,Palmas,1,1
--3.8556484245948335, -38.51390424303372,Ceará,Sitio São João,Fortaleza,Sitio São João,1,1
--3.7777657,-38.4623898,Ceará,Edson Queiroz,Fortaleza,DendeSol,1,0
--4.8194345,-38.8208476,Ceará,Ibaretama,Ibaretama,Serra Azul,1,0
--3.7466828,-39.7840904,Ceará,Irauçuba,Irauçuba,Bancart,1,0
--3.7472277582728712, -39.78008724153257,Ceará,Cruzeiro,Irauçuba,Amizade,1,1
--3.745846686764, -39.778545299366236,Ceará,Juá,Irauçuba,Juazeiro,1,1
--3.965768,-38.529763,Ceará,Itaitinga,Itaitinga,Itasol,1,0
--2.9393495,-39.8289012,Ceará,Almofala,Itarema,Tremembé,1,0
--7.215468750556812, -39.30293659362764,Ceará,Timbaúbas,Juazeiro do Norte,Timbaubas,1,1
--4.760803,-39.4834734,Ceará,Macaoca,Madalena,Bansol,1,0
--3.8779438,-38.6247697,Ceará,Maracanaú,Maracanaú,Paju,1,0
--3.8800328,-38.61071685919009,Ceará,Jereissati,Maracanaú,Jaçana,1,0
--3.8922967,-38.6835427,Ceará,Maranguape,Maranguape,Empreendedores,1,0
--4.028616776361339, -38.9265554970877,Ceará,Itapebussu,Maranguape,Itapebussu,1,1
--7.3870095,-38.7737751,Ceará,Mauriti,Mauriti,Buriti,1,0
--4.7879512,-40.063949,Ceará,Monsenhor Tabosa,Monsenhor Tabosa,Serra das Matas,1,0
--4.4910653,-38.5964829,Ceará,Ocara,Ocara,Ocards,1,0
--3.9841,-38.6180383,Ceará,Pacatuba,Pacatuba,Pacatubano,1,0
--4.7449408,-37.9608401,Ceará,Palhano,Palhano,Artpalha,1,0
--4.1478012,-38.8460317,Ceará,Palmácia,Palmácia,Serrano,1,0
--3.41436,-39.030028,Ceará,Paracuru,Paracuru,Par,1,0
--4.0964461,-39.2390411,Ceará,Paramoti,Paramoti,Frei Diogo,1,0
--4.9706021,-39.0158403,Ceará,Quixadá,Quixadá,Quixadá,1,0
--3.4596492,-40.2090987,Ceará,S.I,Santana do Acaraú,BASSA,0,1
--4.8330075,-40.3210323,Ceará,Tamboril,Tamboril,Feiticeiro,1,0
--6.0031372,-40.2947268,Ceará,Tauá,Tauá,Quinamuiu,1,0
--15.8173391,-48.1045766,Distrito Federal,S.I,Ceilândia,Ceilândia,0,1
--15.778984999999999,-47.99343610467936,Distrito Federal,Cidade Estrutural,Cidade Estrutural,Estrutural,1,0
--15.743342135133686, -47.760494894429605,Distrito Federal,Itapoã,Itapoã,Itapoã,1,1
--15.6181947,-47.6555703,Distrito Federal,Planaltina-DF,Planaltina (DF),Planaltina,1,0
--16.4407981,-51.1181188,Goias,Iporá,Iporá,Pequi,1,0
--22.5286917,-55.723426,Mato Grosso do Sul,Ponta Porã,Ponta Porã,Ita,1,0
--22.2206145,-54.812208,Mato Grosso do Sul,Dourados,Dourados,Pirê,1,0
--20.4832458,-55.8048448,Mato Grosso do Sul,Anastácio,Anastácio,Pantanal,1,0
--16.4603533,-54.6397099,Mato Grosso,Rondonópolis,Rondonópolis,Cerrado,1,0
--9.8698547,-56.0834993,Mato Grosso,Alta Floresta,Alta Floresta,Raiz,1,0
--15.5986686,-56.0991301,Mato Grosso,S.I,Cuiabá,Aroeira,0,1
--18.6969307,-40.3934634,Espírito Santo,Rubia,Nova Venécia,Kiri-Kere,1,0
--20.5835656,-41.7613221,Espírito Santo,Patrimônio da Penha,Divino de São Lourenço,Caparao,1,0
--20.1293025,-40.2809199,Espírito Santo,Planalto Serrano,Serra,ABraÇo,1,0
--20.2194255,-40.2753505,Espírito Santo,Central Carapina,Serra,Passarela,1,0
--20.1814623,-40.21015,Espírito Santo,Vila Nova de Colares,Serra,Viver,1,0
--20.2721397,-40.3268749,Espírito Santo,Nova Palestina,São Pedro,Puã,1,0
--20.3333586,-40.4295698,Espírito Santo,Vista Dourada,Cariacica,Sol,1,0
--20.3200917,-40.3376682,Espírito Santo,S.I,Vitória,Bem de Perto Andorinhas,0,1
--20.315438464762355, -40.341178222483755,Espírito Santo,S.I,Vitória,Bem de Perto,1,1
--18.7381714,-39.8612654,Espírito Santo,São Benedito,Vitória,Bem,1,0
--18.0828478,-40.09614486183402,Espírito Santo,Cristal do Norte,Pedro Canário,União,1,0
--20.263202,-40.416549,Espírito Santo,Nova Rosa da Penha II,Cariacica,Esperança,0,1
--20.3436454,-40.3238591,Espírito Santo,Ataíde,Vila Velha,Verde Vida,1,0
--20.4434487,-40.3514806,Espírito Santo,Terra Vermelha,Vila Velha,Terra,1,0
--20.15935905,-40.1853349102815,Espírito Santo,Jacaraípe,Serra,Mar,1,0
--23.5234673,-46.8406808,São Paulo,Carapicuiba,Carapicuiba,Tonato,1,0
--23.5716262,-46.399928,São Paulo,Inácio Monteiro,São Paulo,Paulo Freire,1,0
--23.4524735,-46.5856689,São Paulo,Jardim Apuanã,São Paulo,Apuanã,1,0
--21.73366905,-47.8515182775,São Paulo,Santa Eudoxia,São Carlos,Santa Eudoxia,1,0
--22.0439036,-47.8930464,São Paulo,Jardim Gonzaga,São Carlos,Nascente,1,0
--23.6739274,-46.7407377,São Paulo,Jardim São Luís,São Paulo,Autogestão,1,0
--23.644507150000003,-46.78521514207762,São Paulo,Jardim Maria Sampaio,São Paulo,União Sampaio,1,0
--23.7374247,-46.5350171,São Paulo,Jardim Silvina,São Bernardo do Campo,Padre Leo Commissari,1,0
--23.4425642980292, -46.915551531783265,São Paulo,Fazendinha,Santana do Parnaíba,Ativa FZA,1,1
--23.193700008090524, -46.81439370867983,São Paulo,Vila Real,Várzea Paulista,Orquídea,1,1
--22.9130257,-43.1822358,Rio de Janeiro,Lapa,Rio de Janeiro,Cultura,1,0
--22.94803,-43.362903,Rio de Janeiro,Cidade de Deus,Rio de Janeiro,Cidade de Deus,1,0
--22.8884,-43.1147,Rio de Janeiro,Niteroi,Rio de Janeiro,Fundinho,1,0
--22.93442186204764, -43.10042288972289,Rio de Janeiro,Charitas,Niterói,Preventório,1,1
--22.6509706,-42.3947353,Rio de Janeiro,Silva Jardim,Silva Jardim,Capivari,1,0
--22.916749209224804,-42.95903350791264,Rio de Janeiro,Marica,Marica,Mumbuca,1,1
--22.877706627188044, -43.09194296287378,Rio de Janeiro,Niteroi,Niteroi,Arariboia,1,1
--15.2946253,-45.6284904,Minas Gerais,Chapada Gaúcha,Chapada Gaúcha,Chapadense,1,0
--19.7613111,-44.3145945,Minas Gerais,Esmeraldas,Esmeraldas,Esmeralda,1,0
--17.8756111,-41.5046009,Minas Gerais,Teófilo Rocha,Teófilo Otoni,Banclisa,1,0
--27.5967024,-48.5270263,Santa Catarina,Serrinha,Florianópolis,ICOM,1,0
--27.589837192825215, -48.54444334545133,Santa Catarina,Chico  Mendes,Florianópolis,ICOM,1,1
--27.695971631037956, -48.5379670100998,Santa Catarina,Nossa  Senhora da Glória,Florianópolis,ICOM,1,1
--26.4465656,-52.8319931,Santa Catarina,Novo  Horizonte,Florianópolis,ICOM,1,0
--27.5906209,-48.6013611,Santa Catarina,Monte Cristo,Florianópolis,ICOM,1,0
--27.606979449999997,-48.54452672744959,Santa Catarina,Morro do Mocotó,Florianópolis,ICOM,1,0
--27.663477740134585, -48.49075678063909,Santa Catarina,Comunidade da Praia,Florianópolis,ICOM,1,1
--27.6824506,-48.4905604,Santa Catarina,Campeche,Florianópolis,Costeira,1,0
--27.942,-52.923085,Rio Grande do Sul,Sarandi,Porto Alegre,Banco  Justa Troca,1,0
--30.09015315,-51.18088778172944,Rio Grande do Sul,Vila  1o. De Maio,Porto Alegre,Banco Cascata,1,0
--30.029838370987196, -51.22830340651677,Rio Grande do Sul,S.I,S.I,Banco Grão,1,1
+Banco,Latitude,Longitude,Estado,Bairro,Municipio,Ano de Fundação,Volume de Crédito,Número de Clientes,Número de Funcionários
+Rio Carapuru,-1.370930417,-48.15366067,Pará,Carapuru,Santa Izabel,2014
+Paar,-1.338802,-48.386436,Pará,Paar,Ananindeua,2012
+Rio Canaticú,-1.8137876,-49.7980165,Pará,Curralinho,Curralinho,2016
+Pracaubense,-1.5317443,-49.2223565,Pará,Muaná,Muaná,2016
+Tupinambá,-1.1343353,-48.43394738,Pará,Mosqueiro,Belém,2009
+Caratateua,-1.252456689,-48.45380026,Pará,Outeiro,Belém,2013
+Cajueiro,-1.45056,-48.4682453,Pará,Belém,Belém,2008
+Castanheira,-1.407922449,-48.43140865,Pará,Castanheira,Belém,2014
+Tauense,-1.1522,-48.131446,Pará,Santo Antonio do Taua,Santo Antonio do Taua,S.I
+Miri,-1.9785213,-48.9634826,Pará,Igarapé-Miri,Igarapé-Miri,2012
+Paraíso,-4.446157064,-49.11715051,Pará,Alto Paraíso,Jacundá,2011
+Mari,-1.3595306,-48.3361504,Pará,Marituba 1,Marituba,2013
+Aimorés,-2.99441654,-47.35523936,Pará,S.I,S.I,S.I
+Alachaster Bank,-1.399369108,-48.45499367,Pará,Marambaia,Belém,2019
+Aldeinha,-1.406325,-51.6427456,Pará,S.I,Gurupá,2011
+Vitória,-9.94655075,-67.8018087,Acre,Vitória,Rio Branco,2011
+Triângulo,-9.990117457,-67.81059112,Acre,Triângulo Novo,Rio Branco,2013
+Fazendinha,0.0401529,-51.0569588,Amapá,Macapá,Macapá,2012
+Farol,-0.840069638,-52.51897094,Amapá,Centro,Laranjal do Jari,2011
+Forte,2.046961087,-50.79229218,Amapá,S.I,S.I,2012
+Cultural Solidário de Rondônia,-8.7494525,-63.8735438,Rondônia,S.I,Porto Velho,2012
+Pérola do Mamoré,-10.78657952,-65.34064497,Rondônia,Cerraria,Guajará-Mirim,2012
+Colonial,-3.1316333,-59.9825041,Amazonas,Manaus,Manaus,2012
+Ariramba,-2.798863,-57.067897,Amazonas,Barreirinha,Barreirinha,2016
+Boa Vista do Ramos,-2.9716927,-57.5869819,Amazonas,Boa Vista do Ramos,Boa Vista do Ramos,S.I
+Nova Aliança,-3.128535629,-60.02319855,Amazonas,Manaus,Manaus,2015
+Mauá,-3.127541924,-60.01442049,Amazonas,Manaus,Manaus,2015
+Poraque,-3.133274821,-60.01452257,Amazonas,Manaus,Manaus,S.I
+Aruak,-2.9978673,-60.014116,Amazonas,Colônia Terra Nova II,Manaus,2012
+Conquista,-3.1380304,-60.0003528,Amazonas,Morro da Liberdade,Manaus,2011
+Liberdade,-3.1055488,-59.9051666,Amazonas,Colônia Antônio Aleixo,Manaus,2011
+Parintins,-2.629476251,-56.74262999,Amazonas,São Benedito,Parintins,2011
+Limoeiro de Anadia,-9.73759013,-36.50234334,Alagoas,Zona Rural,Limoeiro de Anadia,2019
+Olhos D´água,-9.537678,-36.637191,Alagoas,S.I,Igaci,2016
+Guiné,-12.97424245,-38.46827182,Bahia,Saramandaia,Salvador,2009
+Fonte de Águas Frescas,-12.0105291,-38.6259109,Bahia,Feira de Santana (microrregião),Ouriçangas,2012
+Quilombola do Iguape,-12.60210254,-38.9643157,Bahia,Cachoeira,Cachoeira,2013
+Casa do Sol,-13.4860505,-39.0455744,Bahia,Cairu,Cairu,2009
+Bamex,-15.6790128,-38.9449622,Bahia,Canavieiras,Canavieiras,2013
+Ecoluzia,-12.7867839,-38.4030365,Bahia,Simões Filho,Simões Filho,2007
+Ouro Negro,-12.628108,-38.6811326,Bahia,São Francisco do Conde,São Francisco do Conde,2017
+Ilhamar,-12.96000715,-38.61275634,Bahia,Vera Cruz,Vera Cruz,2008
+Abrantes,-12.6998188,-38.3260762,Bahia,Camaçari,Camaçari,2014
+Santa Luzia,-12.9345334,-38.4950228,Bahia,Uruguai,Salvador,2009
+Dois de Julho,-14.0691776,-42.4852428,Bahia,S.I,Caetité,2017
+Amigo do Sertão,-14.223066,-42.779943,Bahia,S.I,Guanambi,2016
+Dunas,-10.90741164,-37.02666494,Sergipe,Barra do Coqueiros,Barra do Coqueiros,2012
+Jardim Botanico,-7.129065282,-34.84315655,Paraíba,João Pessoa (São Rafael),João Pessoa,2013
+Muçubank,-7.1215981,-34.882028,Paraíba,João Pessoa,João Pessoa,2015
+CEPAG Cinco Lagoas,-6.971736502,-35.80541606,Paraíba,Padre Cícero,Remígio,2019
+Maringá,-6.775958742,-37.79564995,Paraíba,Vida Nova,Pompal,2016
+Lagoa de Dentro,-6.672424407,-35.37648838,Paraíba,Centro,Lagoa de Dentro,2016
+Pureza,-5.3456592,-35.5349352,Rio Grande do Norte,Bebida Velha,Pureza,2016
+Banco Solidário do Gostoso,-5.1230207,-35.6353882,Rio Grande do Norte,São Miguel do Gostoso,São Miguel do Gostoso,2012
+Cocais,-3.8126524,-42.4508146,Piauí,São João do Arraial,São João do Arraial,2007
+Porto Marruais,-3.894043533,-42.71743576,Piauí,S.I,Porto,2017
+Retiro,-3.884843917,-42.23466366,Piauí,S.I,Esperantina,2017
+Rede Opala,-4.4252673,-41.458407,Piauí,Pedro II,Pedro II,2012
+Quilombola,-2.4084996,-44.4174143,Maranhão,Alcântara,Alcântara,2007
+Vale Acarape,-4.2237866,-38.7071663,Ceará,Acarape,Acarape,2011
+Dunas,-2.8869514,-40.1194713,Ceará,Acarau,Acarau,2011
+Bandesb,-4.1810469,-38.1298101,Ceará,Beberibe,Beberibe,2007
+Pe Quiliano,-4.22545044,-38.91974206,Ceará,Campos Belos,Caridade,2008
+Bandesc,-4.133779867,-38.23753503,Ceará,Cascavel,Cascavel,2011
+Potira,-3.7300563,-38.6593082,Ceará,Caucaia,Caucaia,2011
+Sertanejo,-4.8435726,-39.1393071,Ceará,Choró,Choró,2008
+Rio Choro,-4.3010895,-38.4976923,Ceará,Chorozinho,Chorozinho,2011
+São Cristóvão,-3.7304512,-38.5217989,Ceará,S.I,Fortaleza,2009
+Pirambu,-3.710513593,-38.56256641,Ceará,Pirambú,Fortaleza,2008
+Rio Sol,-3.7822084,-38.5997833,Ceará,Granja Portugal,Fortaleza,2008
+Palmas,-3.843436095,-38.52547506,Ceará,Conj Palmeiras,Fortaleza,1998
+Sitio São João,-3.855648425,-38.51390424,Ceará,Sitio São João,Fortaleza,2011
+DendeSol,-3.7777657,-38.4623898,Ceará,Edson Queiroz,Fortaleza,2010
+Serra Azul,-4.8194345,-38.8208476,Ceará,Ibaretama,Ibaretama,2008
+Bancart,-3.7466828,-39.7840904,Ceará,Irauçuba,Irauçuba,2006
+Amizade,-3.747227758,-39.78008724,Ceará,Cruzeiro,Irauçuba,2008
+Juazeiro,-3.745846687,-39.7785453,Ceará,Juá,Irauçuba,2008
+Itasol,-3.965768,-38.529763,Ceará,Itaitinga,Itaitinga,2011
+Tremembé,-2.9393495,-39.8289012,Ceará,Almofala,Itarema,2008
+Timbaubas,-7.215468751,-39.30293659,Ceará,Timbaúbas,Juazeiro do Norte,2011
+Bansol,-4.760803,-39.4834734,Ceará,Macaoca,Madalena,2008
+Paju,-3.8779438,-38.6247697,Ceará,Maracanaú,Maracanaú,2006
+Jaçana,-3.8800328,-38.61071686,Ceará,Jereissati,Maracanaú,2008
+Empreendedores,-3.8922967,-38.6835427,Ceará,Maranguape,Maranguape,2006
+Itapebussu,-4.028616776,-38.9265555,Ceará,Itapebussu,Maranguape,2008
+Buriti,-7.3870095,-38.7737751,Ceará,Mauriti,Mauriti,2011
+Serra das Matas,-4.7879512,-40.063949,Ceará,Monsenhor Tabosa,Monsenhor Tabosa,2008
+Ocards,-4.4910653,-38.5964829,Ceará,Ocara,Ocara,2008
+Pacatubano,-3.9841,-38.6180383,Ceará,Pacatuba,Pacatuba,2011
+Artpalha,-4.7449408,-37.9608401,Ceará,Palhano,Palhano,2008
+Serrano,-4.1478012,-38.8460317,Ceará,Palmácia,Palmácia,2005
+Par,-3.41436,-39.030028,Ceará,Paracuru,Paracuru,2004
+Frei Diogo,-4.0964461,-39.2390411,Ceará,Paramoti,Paramoti,2007
+Quixadá,-4.9706021,-39.0158403,Ceará,Quixadá,Quixadá,2011
+BASSA,-3.4596492,-40.2090987,Ceará,S.I,Santana do Acaraú,2005
+Feiticeiro,-4.8330075,-40.3210323,Ceará,Tamboril,Tamboril,2008
+Quinamuiu,-6.0031372,-40.2947268,Ceará,Tauá,Tauá,2007
+Ceilândia,-15.8173391,-48.1045766,Distrito Federal,S.I,Ceilândia,2016
+Estrutural,-15.778985,-47.9934361,Distrito Federal,Cidade Estrutural,Cidade Estrutural,2012
+Itapoã,-15.74334214,-47.76049489,Distrito Federal,Itapoã,Itapoã,2012
+Planaltina,-15.6181947,-47.6555703,Distrito Federal,Planaltina-DF,Planaltina (DF),sem dados
+Pequi,-16.4407981,-51.1181188,Goias,Iporá,Iporá,2012
+Ita,-22.5286917,-55.723426,Mato Grosso do Sul,Ponta Porã,Ponta Porã,2012
+Pirê,-22.2206145,-54.812208,Mato Grosso do Sul,Dourados,Dourados,2006
+Pantanal,-20.4832458,-55.8048448,Mato Grosso do Sul,Anastácio,Anastácio,2013
+Cerrado,-16.4603533,-54.6397099,Mato Grosso,Rondonópolis,Rondonópolis,2012
+Raiz,-9.8698547,-56.0834993,Mato Grosso,Alta Floresta,Alta Floresta,2013
+Aroeira,-15.5986686,-56.0991301,Mato Grosso,S.I,Cuiabá,2012
+Kiri-Kere,-18.6969307,-40.3934634,Espírito Santo,Rubia,Nova Venécia,2017
+Caparao,-20.5835656,-41.7613221,Espírito Santo,Patrimônio da Penha,Divino de São Lourenço,2017
+ABraÇo,-20.1293025,-40.2809199,Espírito Santo,Planalto Serrano,Serra,2011
+Passarela,-20.2194255,-40.2753505,Espírito Santo,Central Carapina,Serra,2013
+Viver,-20.1814623,-40.21015,Espírito Santo,Vila Nova de Colares,Serra,2013
+Puã,-20.2721397,-40.3268749,Espírito Santo,Nova Palestina,São Pedro,2011
+Sol,-20.3333586,-40.4295698,Espírito Santo,Vista Dourada,Cariacica,2008
+Bem de Perto Andorinhas,-20.3200917,-40.3376682,Espírito Santo,S.I,Vitória,S.I
+Bem de Perto,-20.31543846,-40.34117822,Espírito Santo,S.I,Vitória,S.I
+Bem,-18.7381714,-39.8612654,Espírito Santo,São Benedito,Vitória,2006
+União,-18.0828478,-40.09614486,Espírito Santo,Cristal do Norte,Pedro Canário,2013
+Esperança,-20.263202,-40.416549,Espírito Santo,Nova Rosa da Penha II,Cariacica,2011
+Verde Vida,-20.3436454,-40.3238591,Espírito Santo,Ataíde,Vila Velha,2008
+Terra,-20.4434487,-40.3514806,Espírito Santo,Terra Vermelha,Vila Velha,2007
+Mar,-20.15935905,-40.18533491,Espírito Santo,Jacaraípe,Serra,2013
+Tonato,-23.5234673,-46.8406808,São Paulo,Carapicuiba,Carapicuiba,2011
+Paulo Freire,-23.5716262,-46.399928,São Paulo,Inácio Monteiro,São Paulo,2009
+Apuanã,-23.4524735,-46.5856689,São Paulo,Jardim Apuanã,São Paulo,2009
+Santa Eudoxia,-21.73366905,-47.85151828,São Paulo,Santa Eudoxia,São Carlos,2012
+Nascente,-22.0439036,-47.8930464,São Paulo,Jardim Gonzaga,São Carlos,2011
+Autogestão,-23.6739274,-46.7407377,São Paulo,Jardim São Luís,São Paulo,2009
+União Sampaio,-23.64450715,-46.78521514,São Paulo,Jardim Maria Sampaio,São Paulo,2009
+Padre Leo Commissari,-23.7374247,-46.5350171,São Paulo,Jardim Silvina,São Bernardo do Campo,2011
+Ativa FZA,-23.4425643,-46.91555153,São Paulo,Fazendinha,Santana do Parnaíba,2019
+Orquídea,-23.19370001,-46.81439371,São Paulo,Vila Real,Várzea Paulista,2011
+Cultura,-22.9130257,-43.1822358,Rio de Janeiro,Lapa,Rio de Janeiro,2018
+Cidade de Deus,-22.94803,-43.362903,Rio de Janeiro,Cidade de Deus,Rio de Janeiro,2011
+Fundinho,-22.8884,-43.1147,Rio de Janeiro,Niteroi,Rio de Janeiro,2009
+Preventório,-22.93442186,-43.10042289,Rio de Janeiro,Charitas,Niterói,2011
+Capivari,-22.6509706,-42.3947353,Rio de Janeiro,Silva Jardim,Silva Jardim,2010
+Mumbuca,-22.91674921,-42.95903351,Rio de Janeiro,Marica,Marica,2013
+Arariboia,-22.87770663,-43.09194296,Rio de Janeiro,Niteroi,Niteroi,2021
+Chapadense,-15.2946253,-45.6284904,Minas Gerais,Chapada Gaúcha,Chapada Gaúcha,2009
+Esmeralda,-19.7613111,-44.3145945,Minas Gerais,Esmeraldas,Esmeraldas,2011
+Banclisa,-17.8756111,-41.5046009,Minas Gerais,Teófilo Rocha,Teófilo Otoni,2011
+ICOM,-27.5967024,-48.5270263,Santa Catarina,Serrinha,Florianópolis,2020
+ICOM,-27.58983719,-48.54444335,Santa Catarina,Chico  Mendes,Florianópolis,2020
+ICOM,-27.69597163,-48.53796701,Santa Catarina,Nossa  Senhora da Glória,Florianópolis,2020
+ICOM,-26.4465656,-52.8319931,Santa Catarina,Novo  Horizonte,Florianópolis,2020
+ICOM,-27.5906209,-48.6013611,Santa Catarina,Monte Cristo,Florianópolis,2020
+ICOM,-27.60697945,-48.54452673,Santa Catarina,Morro do Mocotó,Florianópolis,2020
+ICOM,-27.66347774,-48.49075678,Santa Catarina,Comunidade da Praia,Florianópolis,2020
+Costeira,-27.6824506,-48.4905604,Santa Catarina,Campeche,Florianópolis,2020
+Banco  Justa Troca,-27.942,-52.923085,Rio Grande do Sul,Sarandi,Porto Alegre,2016
+Banco Cascata,-30.09015315,-51.18088778,Rio Grande do Sul,Vila  1o. De Maio,Porto Alegre,2016
+Banco Grão,-30.02983837,-51.22830341,Rio Grande do Sul,S.I,S.I,2017
