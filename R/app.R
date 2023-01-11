@@ -20,7 +20,8 @@ ui <- dashboardPage(
   dashboardSidebar(
     sidebarMenu(
       menuItem("Seleção de Filtros", tabName = "my_selection"),
-      menuItem("Mapa", tabName = "my_maps")
+      menuItem("Mapa", tabName = "my_maps"),
+      menuItem("Manual do Usuário", tabName = "my_manual")
     )
   ),
   dashboardBody(
@@ -28,6 +29,23 @@ ui <- dashboardPage(
       tabItem(tabName = "my_maps",
               tags$style(type = "text/css", "#map {height: calc(100vh - 80px) !important;}"),
               leafletOutput("map")
+      ),
+      tabItem(tabName = "my_manual",
+              titlePanel("Seções"),
+              p("Ao acessar o site, o usuário irá se deparar com a seção de Seleção de Filtros, indicada pelo contorno no canto superior esquerdo como demonstrado na figura abaixo."),
+              p("O usuário poderá a qualquer momento trocar de seção para visualizar o mapa clicando no botão “Mapa” para carregar a visualização do mapa. Vale ressaltar que o site pode levar alguns segundos para carregar os dados inicialmente e, portanto, o mapa ou a tabela podem inicialmente aparecerem vazios. Para retornar à seleção de filtros, basta clicar no botão Seleção de Filtros."),
+              p("O botão que apresenta as três linhas serve para sumir ou retornar com os botões de seção retratados anteriormente."),
+              img(src="manual_section.png",height = 150,width=150,align="center",style="display: block; margin-left: auto; margin-right: auto;"),
+              titlePanel("Mapa"),
+              p("Uma vez na seção de Mapa, com o mapa sendo visualizado, o usuário pode segurar o botão esquerdo do mouse e arrastá-lo para mover o mapa, aumentar ou diminuir o nível de ampliação com os símbolos de mais e menos ou clicar nas localizações marcadas para visualizar mais informações sobre elas."),
+              img(src="manual_map.png",height = 500,width=500,align="center",style="display: block; margin-left: auto; margin-right: auto;"),
+              titlePanel("Seleção de filtros"),
+              p("Na seção de seleção de filtros há a possibilidade de selecionar um banco pelo seu nome, ou filtrar bancos pelo seu estado ou ano de fundação. O campo de Banco Comunitário se trata de um campo livre para escrever. O campo de Estado exige que o usuário clique na seta e escolha um dos Estados disponíveis. O campo de Ano de fundação permite que o usuário escreve um ano à esquerda e um ano à direita, determinando um intervalo de busca."),
+              p("Além destes filtros convencionais, há uma barra de busca, sinalizada por “Search”, acima da tabela, que se trata de um campo livre. O programa buscará por algo compatível com o que o usuário escreveu em qualquer um dos campos disponíveis."),
+              p("O indicador de contagem acima da tabela serve para sinalizar quantos resultados são retornados para esta busca."),
+              p("Abaixo da tabela é possível selecionar “Next” para ir para a próxima página de resultados ou “Previous” para voltar, caso haja mais de uma página."),
+              p("Por fim, os botões “Copy”, “Excel” e “PDF” servem para exportar os dados da tabela, em texto, tabela ou imagem, respectivamente."),
+              img(src="manual_selection.png",height = 500,width=500,style="display: block; margin-left: auto; margin-right: auto;")
       ),
       tabItem(tabName = "my_selection",
               fluidRow(
